@@ -10,7 +10,7 @@ This is a multiplayer dice game
 
 ### How to play
 
-It is played by two players who score points by rolling the dice, if dice rolls 1, the current player looses all his points and the turn, a player has an option to save his current score if they don't feel lucky. Whoever scores 100 points wins the game.
+It is played by two players who score points by rolling the dice, if dice rolls 1, the current player loses all his points and the player has an option to save his current score if they don't feel lucky. Whoever scores 100 points wins the game.
 
 ### Screenshots
 
